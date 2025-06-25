@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/night-companion-bot.git
+git clone https://github.com/Romildajayaraj/night-companion-bot.git
 cd night-companion-bot
 Install dependencies:
 
